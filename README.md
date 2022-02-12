@@ -1,4 +1,4 @@
-## Site Pessoal - Portfólio - BLOG
+<div align="center"><h1>Site Pessoal - Portfólio - BLOG </h1></div>
 
 ![](https://github.com/MariliaMSiqueira/marilia-m-siqueira/blob/main/assets/imgs/layout.gif)
 ![](https://github.com/MariliaMSiqueira/marilia-m-siqueira/blob/main/assets/imgs/layout-aboutme.JPG)
@@ -7,28 +7,28 @@
 
 ---
 
-### O Projeto 💻
+<div align="center"><h2>O Projeto 💻</h2></div>
 
 ---
 
-Corresponde a um site pessoal pelo qual será atualizado constantemente com o intuito de condensar todas as habilidades adquiridas. Tenho pretensão de torna-lo **responsivo** e adicionar uma área, no formato de **BLOG**, com tutoriais a fim de **auxiliar** iniciantes na área tech e, de forma simultânea, reforçar meus conhecimentos. Pois, **ENSINAR TAMBÉM É APRENDER!** 🤩
+Corresponde a um site pessoal pelo qual será atualizado constantemente com o intuito de condensar todas as habilidades adquiridas. Tenho pretensão de torna-lo **responsivo** e adicionar uma área, no formato de **BLOG**, com tutoriais a fim de **auxiliar** iniciantes na área tech e, de forma simultânea, reforçar meus conhecimentos. <br>
+Pois, **ENSINAR TAMBÉM É APRENDER!** 🤩
 
 ---
 
-### Visualizar 👀
+<div align="center"><h3>Visualizar 👀 </h3></div>
 
-#### Acesse 🔗
+<div align="center"><h3>Acesse 🔗 </h3></div>
 
-https://mariliamsiqueira.github.io/marilia-m-siqueira/
+<div align="center">https://mariliamsiqueira.github.io/marilia-m-siqueira/</div>
 
-#### Clonar git
+<div align="center"><h3>Clonar git </h3></div>
 
-    git clone https://github.com/MariliaMSiqueira/marilia-m-siqueira.git
+   <div align="center"> git clone https://github.com/MariliaMSiqueira/marilia-m-siqueira.git</div>
 
 ---
 
-### Habilidades adquiridas ✔
-
+<div align="center"><h2>Habilidades adquiridas ✔ </h2></div>
 Almejando a carreira de **WEB Developer**, estou estruturando os alicerces nas linguagens/libraries:
 
 1. [x] HTML;
@@ -51,19 +51,21 @@ Por intermédio dos cursos disponibilizados pela [DIO.me](https://web.dio.me/use
 
 ---
 
-### Experiência Pessoal 🤩
+<div align="center"><h2>Experiência Pessoal 🤩 </h2></div>
 
-A sensação de finalizar mais um projeto, principalmente este por ser de cunho pessoal, é **indescritível**. ❤
-Sensação esta que serve de combustível para sempre ir **ALÉM**. 🚀🚀
-**Sair da zona de conforto.**
-Ter **CORAGEM**! 💪🏻
+A sensação de finalizar mais um projeto, principalmente este por ser de cunho pessoal, é **indescritível**. ❤ <br>
+Sensação esta que serve de combustível para sempre ir **ALÉM**. 🚀🚀 <br>
+**Sair da zona de conforto.** <br>
+Ter **CORAGEM**! 💪🏻<br>
 
-O projeto nasceu da enorme vontade de ensinar pessoas que estão adentrando na área de tech. Principalmente, **MULHERES**. Mostrar que somos **capaz SIM**! Se eu aprendi, por qual motivo alguém não poderia?!?
+O projeto nasceu da enorme vontade de ensinar pessoas que estão adentrando na área de tech. Principalmente, **MULHERES**. Mostrar que somos **capaz SIM**! Se eu aprendi, por qual motivo alguém não poderia?!?<br>
 
-Para um DEV avançado, parece um projeto bobo, simples. No entanto, foram três longos dias para chegar neste resultado. Necessita de **INÚMEROS** ajustes, **AINDA** não está responsivo. Porém, próximo passo é aplicar conceitos de **MOBILE FIRST** com o **BOOTSTRAP.** Ai sim, criarei o **BLOG** com a finalidade de postar minha rotina de estudos, tutoriais e divulga-los em grupos de disseminação de conhecimento.
+Para um DEV avançado, parece um projeto bobo, simples. No entanto, foram três longos dias para chegar neste resultado. Necessita de **INÚMEROS** ajustes, **AINDA** não está responsivo. Porém, próximo passo é aplicar conceitos de **MOBILE FIRST** com o **BOOTSTRAP.** Ai sim, criarei o **BLOG** com a finalidade de postar minha rotina de estudos, tutoriais e divulga-los em grupos de disseminação de conhecimento.<br>
 
-**NADA DISSO** teria sido possível se eu não tivesse a orientação que a [DIO.me](https://web.dio.me/sign-in) proporcionou-me. GRATIDÃO IMENSURÁVEL! 🙏🏻👏🏻
+**NADA DISSO** teria sido possível se eu não tivesse a orientação que a **[DIO.me](https://web.dio.me/sign-in)** proporcionou-me. <br>
 
-Contem comigo!🤜🏻🤛🏻
+GRATIDÃO IMENSURÁVEL! 🙏🏻👏🏻      <br>
+
+**Contem comigo!**   🤜🏻🤛🏻
 
 ---
