@@ -1,4 +1,5 @@
 <div align="center"><h1>Site Pessoal - Portfólio - BLOG </h1></div>
+<div align="center"><h3>Refactoring com Bootstrap... 🛠⚙</h3></div>
 
 ![](https://github.com/MariliaMSiqueira/marilia-m-siqueira/blob/main/assets/imgs/layout.gif)
 ![](https://github.com/MariliaMSiqueira/marilia-m-siqueira/blob/main/assets/imgs/layout-aboutme.JPG)
@@ -34,6 +35,7 @@ Almejando a carreira de WEB Developer, estou estruturando os alicerces nas lingu
 
 1. [x] HTML;
 1. [x] CSS;
+1. [x] Bootstrap;
 1. [x] JavaScript;
 1. [x] Typed.JS;
 1. [x] JQuery;
