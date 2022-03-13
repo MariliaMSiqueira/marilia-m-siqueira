@@ -121,11 +121,13 @@ img.logo-img{
   top: 200px;
 }
 #home .social-media ion-icon{
-  padding: 50px 0px;
   font-size: 3rem;
-  padding: 0 30px;
   color: #fff;
   transition: 0.5s ease;
+}
+
+.social-media-custom{
+  padding: 0 20px;
 }
 #home .social-media ion-icon:hover{
   color: rgb(46, 166, 247);
