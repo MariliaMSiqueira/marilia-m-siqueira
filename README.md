@@ -52,6 +52,7 @@ Por intermédio dos cursos disponibilizados pela [DIO.me](https://web.dio.me/use
 6.  [x] Ordem correta do posicionamento dos `<script src=""></script>` no `index.html`;
 7.  [x] Aplicação do modelo de `display: flex`;
 8.  [x] Possibilidade de estilização do scroll;
+9.  [x] Utilização do Formspree com o intuito de tornar o formulário funcional;
 
 ---
 
