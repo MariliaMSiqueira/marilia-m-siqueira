@@ -62,26 +62,30 @@
               <div id="wrapper" class="wrapper">
                 <span id="typed"></span>
               </div>
+            </div> 
+        </div>
+          <div class="row">
+            <div class="col-md-12">
               <div class="social-media">
                 <a class="social-media-custom"
-                  href="https://www.linkedin.com/in/marilia-matias-siqueira/"
-                  target="_blank"
-                  rel="external"
-                  ><ion-icon name="logo-linkedin"></ion-icon
+                    href="https://www.linkedin.com/in/marilia-matias-siqueira/"
+                    target="_blank"
+                    rel="external"
+                    ><ion-icon name="logo-linkedin"></ion-icon
                 ></a>
                 <a class="social-media-custom"
-                  href="https://github.com/MariliaMSiqueira"
-                  target="_blank"
-                  rel="external"
-                  ><ion-icon name="logo-github"></ion-icon
+                    href="https://github.com/MariliaMSiqueira"
+                    target="_blank"
+                    rel="external"
+                ><ion-icon name="logo-github"></ion-icon
                 ></a>
                 <a class="social-media-custom" href="#contact" rel="external"
-                  ><ion-icon name="at-sharp"></ion-icon
+                ><ion-icon name="at-sharp"></ion-icon
                 ></a>
               </div>
+            </div>
           </div>
-        </div>      
-      </div>    
+      </div>   
     </main>
 
     <section id="about" class="box">
@@ -194,17 +198,26 @@
               </div>
             </div>
           </div>
-          <div class="col-md-6">
+          <div class="col-md-6 d-flex">
             <div class="contact-me-input-content">
               <h2 class="text-white">
                 Preencha o formulário
               </h2>
               <div class="form-group box">
-                <input class="form-control mb-1" type="email" name="email" id="email" placeholder="Digite seu e-mail" />
-                <input class="form-control mb-1" type="text" name="name" id="name" placeholder="Digite seu nome" />
-                <div class="wrapper">
-                <textarea class="form-control" name="message" id="typed2" placeholder=""></textarea>
-              </div>
+                <form class="align-self-center" action="https://formspree.io/f/xpzblekv" method="POST">
+
+                  <label for="name" class="d-none">Nome Completo</label>
+                  <input class="form-control mb-1" type="text" name="name" id="name" placeholder="Qual seu nome?" required/>
+
+                  <label for="email" class="d-none">Digite seu e-mail</label>
+                  <input class="form-control mb-1" type="email" name="email" id="email" placeholder="Digite seu e-mail" required/>
+
+                  <div class="wrapper-form">
+                  <textarea class="form-control" name="message" id="typed2" placeholder="" required></textarea>
+                  </div>
+
+                  <input class="form-control" type="submit" value="Enviar">
+                </form>
             </div>
             </div>
           </div>
@@ -215,29 +228,20 @@
 
     <footer id="footer" class="box">
       <div class="container text-white-50 text-center">
-        <p class="lead">Copyright © 2022 - by Marília ℳ. Siqueira</p>
+        <p>Copyright © 2022 - by Marília ℳ. Siqueira</p>
         <div class="social-medias">
+
           <span>&#8640;</span>
-          <a
-            href="https://github.com/MariliaMSiqueira"
-            target="_blank"
-            rel="external"
-            >GitHub</a
-          >
+          <a href="https://github.com/MariliaMSiqueira" target="_blank" rel="external">Github</a>
+
           <span>|</span>
-          <a
-            href="https://br.linkedin.com/in/mar%C3%ADlia-matias-siqueira-b2480a219"
-            target="_blank"
-            rel="external"
-            >LinkedIn</a
-          >
+          
+          <a href="https://br.linkedin.com/in/mar%C3%ADlia-matias-siqueira-b2480a219" target="_blank" rel="external">LinkedIn</a>
+
           <span>|</span>
-          <a
-            href="https://web.dio.me/users/mariliamatiassiqueira?tab=achievements"
-            target="_blank"
-            rel="external"
-            >DIO.me</a
-          >
+          
+          <a href="https://web.dio.me/users/mariliamatiassiqueira?tab=achievements" target="_blank" rel="external">DIO.me</a>
+
           <span>&#8637;</span>
         </div>
       </div>

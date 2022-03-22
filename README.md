@@ -1,5 +1,5 @@
 <div align="center"><h1>Site Pessoal - Portfólio - BLOG </h1></div>
-<div align="center"><h3>Refactoring com Bootstrap... 🛠⚙</h3></div>
+<div align="center"><h3>Refactoring ... 🛠⚙</h3></div>
 
 ![](https://github.com/MariliaMSiqueira/marilia-m-siqueira/blob/main/assets/imgs/layout.gif)
 ![](https://github.com/MariliaMSiqueira/marilia-m-siqueira/blob/main/assets/imgs/layout-aboutme.JPG)
@@ -34,12 +34,13 @@ Almejando a carreira de WEB Developer, estou estruturando os alicerces nas lingu
 
 
 1. [x] HTML;
-1. [x] CSS;
-1. [x] Bootstrap;
-1. [x] JavaScript;
-1. [x] Typed.JS;
-1. [x] JQuery;
-1. [x] Node.JS.
+2. [x] CSS;
+3. [x] Bootstrap;
+4. [x] JavaScript;
+5. [x] Typed.JS;
+6. [x] JQuery;
+7. [x] Formspree;
+8. [x] Node.JS.
 
 Por intermédio dos cursos disponibilizados pela [DIO.me](https://web.dio.me/users/mariliamatiassiqueira?tab=achievements) pude compreender, de forma clara e objetiva, inúmeros novos conceitos, que foram aplicados neste projeto, tais como:
 

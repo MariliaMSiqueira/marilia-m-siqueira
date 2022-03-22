@@ -8,14 +8,14 @@
 
 body,
 html,
-#home{
+#home {
   height: 100%;
   overflow-x: hidden;
 }
 
-body{
-  background: linear-gradient(90deg, rgba(7, 0, 8, 0.158) 0%, rgba(0,0,0,0) 50%, rgba(0, 0, 0, 0.164) 100%),
-              url(../imgs/background.jpg);
+body {
+  background: linear-gradient(90deg, rgba(7, 0, 8, 0.158) 0%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.164) 100%),
+    url(../imgs/background.jpg);
   background-attachment: fixed;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -28,13 +28,17 @@ body{
   animation: blink 0.7s infinite;
 }
 
+
+
 @keyframes blink {
   0% {
     opacity: 1;
   }
+
   50% {
     opacity: 0;
   }
+
   100% {
     opacity: 1;
   }
@@ -44,9 +48,11 @@ body{
   0% {
     opacity: 1;
   }
+
   50% {
     opacity: 0;
   }
+
   100% {
     opacity: 1;
   }
@@ -56,42 +62,45 @@ body{
   0% {
     opacity: 1;
   }
+
   50% {
     opacity: 0;
   }
+
   100% {
     opacity: 1;
   }
 }
+
 /* GERAIS */
 /* TIPOGRAFIA */
-h2{
+h2 {
   letter-spacing: 2px;
 }
 
-.box{
+.box {
   padding: 25px 0;
 }
 
-span.underline{
+span.underline {
   text-decoration: underline;
 }
 
-.rotate{
-  -webkit-transform:rotate(30deg);
+.rotate {
+  -webkit-transform: rotate(30deg);
   -ms-transform: rotate(30deg);
   -o-transform: rotate(30deg);
   transform: rotate(30deg);
 }
 
 /* ========== HEADER */
- /* NAV BRAND */
-img.logo-img{
+/* NAV BRAND */
+img.logo-img {
   width: 80px;
 }
 
 /* NAV BACKGROUND */
-.nav-bg{
+.nav-bg {
   background: rgba(0, 0, 0, 0.418);
 }
 
@@ -105,44 +114,51 @@ img.logo-img{
   transition: .5s;
 }
 
-.navbar-dark .navbar-nav .nav-link:hover{
-  color:rgb(199, 82, 245) ;
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: rgb(199, 82, 245);
 }
 
 /* ========== HOME */
 /* TYPED */
-#home #typed{
+#home #typed {
   font-family: 'Short Stack', cursive;
 }
 
+#home .typed-cursor {
+  font-size: 42px;
+}
+
+
 /* ICON */
-#home .social-media{
+#home .social-media {
   position: relative;
   top: 200px;
 }
-#home .social-media ion-icon{
+
+#home .social-media ion-icon {
   font-size: 3rem;
   color: #fff;
   transition: 0.5s ease;
 }
 
-.social-media-custom{
+.social-media-custom {
   padding: 0 20px;
 }
-#home .social-media ion-icon:hover{
+
+#home .social-media ion-icon:hover {
   color: rgb(46, 166, 247);
 }
 
 /* =========== ABOUT ME */
-section#about{
+section#about {
   background: rgba(7, 7, 7, 0.397);
 }
 
-#about img.rocket-zoom{
+#about img.rocket-zoom {
   transform: scale(1.1);
 }
 
-.title::after{
+.title::after {
   content: '';
   display: block;
   width: 35%;
@@ -152,44 +168,64 @@ section#about{
   position: absolute;
 }
 
+/*======== FORM CONTACT*/
+section#contact ion-icon {
+  font-size: 30px;
+  margin: 10px 0;
+}
+
+section#contact span {
+  margin-bottom: 10px;
+  letter-spacing: 2px;
+}
+
 /* ========== FOOTER */
-#footer{
+#footer {
   background: #000;
 }
 
+#footer .social-medias a {
+  color: #fff;
+  transition: .5s;
+}
+
+#footer .social-medias a:hover {
+  text-decoration: none;
+  color: rgb(199, 82, 245);
+}
+
 /* RESPONSIVIDADE */
-@media (max-width: 575.98px) { 
-  #typed{
+@media (max-width: 575.98px) {
+  #typed {
     font-size: 1.9em;
   }
- }
+}
 
-@media (min-width: 576px) { 
-  #typed{
+@media (min-width: 576px) {
+  #typed {
     font-size: 2.1em;
   }
- }
+}
 
-
-@media (min-width: 768px) { 
-  #typed{
+@media (min-width: 768px) {
+  #typed {
     font-size: 2.3em;
   }
 }
 
 
-@media (min-width: 992px) { 
-  #typed{
+@media (min-width: 992px) {
+  #typed {
     font-size: 2.9em;
   }
- }
+}
 
 
-@media (min-width: 1200px) { 
-  #typed{
+@media (min-width: 1200px) {
+  #typed {
     font-size: 2.7em;
   }
- }
+}
 
 
 /* SCROLL */

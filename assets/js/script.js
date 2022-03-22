@@ -28,16 +28,3 @@ $('document').ready(function () {
   })
 })
 
-// $('document').ready(function () {
-//   var aboutMe = new Typed('#about-me', {
-//     strings: [' Um pouco mais sobre mim'],
-//     backSpeed: 50,
-//     typeSpeed: 60,
-//     loop: true,
-//     loopCount: 1,
-//     // showCursor: true,
-//     // cursorChar: '|',
-//     // autoInsertCss: true,
-//     startDelay: 1000
-//   })
-// })
