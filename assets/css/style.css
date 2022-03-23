@@ -15,8 +15,9 @@ html,
 
 body {
   background: linear-gradient(90deg, rgba(7, 0, 8, 0.158) 0%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.164) 100%),
-    url(../imgs/background.jpg);
+    url(../imgs/background.jpg) no-repeat top center;
   background-attachment: fixed;
+  background-size: cover;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
